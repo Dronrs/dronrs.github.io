@@ -57,7 +57,7 @@ a:hover {
     justify-content: center;
 }
 
-.posts {
+.posts, .post-container {
     padding-left: 12px;
     padding-right: 12px;
 }
@@ -87,9 +87,10 @@ a:hover {
     padding-top: 12px;
 }
 
-span.timestamp {
+.timestamp {
     margin-top: 5px;
     margin-bottom: 5px;
-    font-size: small;
-    font-weight: 600;
+    font-size: 16px;
+    font-weight:400;
+    text-align: left;
 }
