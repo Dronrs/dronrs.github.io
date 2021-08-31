@@ -47,7 +47,17 @@ a:hover {
     flex-grow: 2;
 }
 
+#logo-link {
+    color: #333332;
+}
+
+#logo-link:hover {
+    color: #333332;
+    text-decoration: none;
+}
+
 .header-item {
+    font-size: 19px;
     padding: 0px 12px;
     justify-self: center;
 }
